@@ -1,0 +1,76 @@
+1. Przypomnienie tworzenia zmiennych, operatorów, instrukcji if,
+
+
+zad 1. Zadeklaruj zmienną a, do której wstaw wartość od użytkownika (prompt).
+
+Napisz instrukcję warunkową, która sprawdzi czy wartość a, jest podzielna przez 2. Wypisz odpowiednią informację w konsoli (console.log).
+
+
+zad 2. Zadeklaruj dwie zmienne i podstaw pod nie losowe liczby z zakresu od 1 do 100 (Math.random)
+
+Napisz funkcję, która zapyta użytkownika czy chce on wykonać +, -, *, / na powyższych dwóch liczbach i w zależności od tego wypisz wynik w konsoli (document.write)
+
+
+
+
+2. Tworzenie funkcji
+
+
+zad 3. Napisz funkcję, która poprosi użytkownika o 2 liczby a następnie wypisze wynik na stronie internetowej (document.write())
+
+
+
+
+
+3. Pętle for, while, do … while
+
+
+zad 4. Napisz pętlę for, która wypisze liczby 2, 4, 8, 16, 32 … (kolejne potęgi dwójki), aż do 2^11 (2 048)
+
+
+zad 5. Napisz pętlę while, która będzie dzieliła przez 3 (rozpocznij od liczby 3333) dopóki wynik będzie większy od 200.
+
+3333, 1111 …
+
+
+zad 6. zaprogramuje pętlę do … while, która wypisze pięć kolejnych potęg dowolnej liczby
+
+
+zad 7. Napisz funkcję drukujący w konsoli trójkąt. Wysokość trójkąta wczytujemy z klawiatury. Poniższy trójkąt ma wysokość wys=5.
+
+X
+
+XXX
+
+XXXXX
+
+XXXXXXX
+
+XXXXXXXXX
+
+
+zad 8. wypisz największą liczbę niepodzielną przez 2,3,5,7 ale mniejszą od 1000
+
+
+
+
+
+
+4. Tablice i obiekt String
+
+zad 9. Utwórz tablicę z 5 krótkimi wyrazami (tytuły książek)
+
+
+zad 10. napisz funkcję, która przestawi książkę z końca tablicy, na początek tablicy
+
+
+zad 11. w jaki sposób pobrać element, który jest na środku tablicy (jeśli tablica ma parzystą liczbę elementów, zwróć ten poniżej połowy)
+
+
+zad 12. napisz funkcję, która przestawi kolejność elementów tablicy
+
+
+zad 13. napisz funkcję, która wymiesza losowo elementy tablicy
+
+
+zad 14*. Sprawdź czy dana tablica zawiera jakiś palindrom.
