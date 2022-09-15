@@ -1,4 +1,3 @@
 # JS_I16
 
-https://docker-curriculum.com/
-docker + aws tutorial
+Aby wywołać poszczególne zadania należy edytować tag <script> z odpowienim numerem zadania
