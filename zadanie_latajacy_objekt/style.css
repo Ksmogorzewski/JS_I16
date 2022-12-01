@@ -1,0 +1,6 @@
+.circle{
+    height: 256px;
+    width: 256px;
+    border-radius: 50%;
+    background-image: url(image.png);
+}
